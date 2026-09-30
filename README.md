@@ -125,7 +125,7 @@ Ecommerce_Semantic_Search_Engine
 
 ## Author
 
-**Basudora Mukunda Priya**
+**Bylapudi Varshitha**
 B.Tech CSE (Data Science)
 Raghu Engineering College
 
